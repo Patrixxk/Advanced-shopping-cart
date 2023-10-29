@@ -1,6 +1,12 @@
 ## Advanced shopping cart made with React and Typescript
 
-#### Main featurees: using Context, LocalStorage, processing and saving data, routing,
+### Main featurees and focus on using:Context, LocalStorage, processing and saving data, routing,
+Didn't really play with the design lol...not the point here
+
+![image](https://github.com/Patrixxk/Advanced-shopping-cart/assets/105343648/5351cff1-cfec-4bf0-9a5f-8cf4ca15d374)
+
+
+![image](https://github.com/Patrixxk/Advanced-shopping-cart/assets/105343648/d1fc615b-0796-4bb8-9980-86825e25a661)
 
 # React + TypeScript + Vite
 
